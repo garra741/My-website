@@ -122,7 +122,6 @@ ul {
 	padding:12px;
 }
 
-
 .sidenav {
 	font-family:Harlow Solid Italic;
     height:100%;
@@ -187,7 +186,7 @@ ul {
 	padding: 0;
 	height: auto;
 	display: inline-block;
-	float: left;
+	float: none;
 }
 
 #mid1{
