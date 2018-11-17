@@ -27,6 +27,7 @@ float:right;
 background-image: url('../Images/xmas1.jpeg'); 
 }
 #siteFooter {
+float:bottom;
 font-family:Berlin Sans FB;
 font-size:50px;
 text-align:center;
