@@ -1,0 +1,93 @@
+* {
+    margin:0;
+    padding:0;
+    }
+
+    .navBar {
+        
+        background-color:#202020;
+        text-align: center;
+        padding: 15px 5 15px 0;
+        text-shadow: 1px 1px #D8E3E5;
+        margin:0 auto;
+        line-height:60px;
+        height:90px;
+        cursor:pointer;
+        border-top:solid 7px #A21515;
+        border-bottom:solid 7px #A21515;
+        background-image: url('../Images/xmas.jpeg'); 
+        }
+        .navBar a{
+        text-decoration:none;
+        color:white;
+        padding:30px;
+        font-size: 28px;
+        font-family:Berlin Sans FB;
+        transition:0.4s;
+        padding: 20px;
+        }
+        .navBar > li {
+        display: inline-block;
+        padding-right: 0 25px 0 25px;
+        }
+        .navBar > li > a {
+        color: white;
+        padding:18px;
+        }
+        .navBar > li > a:hover {
+        color: #A21515;
+        text-decoration:underline;
+        text-shadow: -1px 0 #A21515, 0 1px #A21515, 1px 0 #A21515, 0 -1px#A21515;
+        }
+        
+    .row-right {
+        width:100%;
+        float:right;
+        min-height:100vh;
+        text-align:center;
+        padding:20px;
+        margin: 0 auto;
+      
+        }
+    .fixed-bottom{
+        float:bottom;
+        background-color:#202020;
+        min-height:100px;
+        border-top:solid 7px #A21515;
+        font-family:'Berlin Sans FB';
+        font-size:25px;
+        color:white;
+        text-align:center;
+    }    
+
+    #h1Style {
+        text-align:center;
+        font-weight: bold;
+        color: #A21515;
+        font-size: 55px;
+        font-family:Berlin Sans FB;
+        text-shadow: -5px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+        line-height:60px;
+        }
+
+ .href {
+ 
+    text-align:center;
+    font-family:Berlin Sans FB;
+    font-size:43px;
+    color:white;
+
+ }
+ 
+ a:hover {
+	text-decoration:none;
+	color: #A21515;
+
+}
+
+.pStyle {
+    font-family:Arial,serif;
+    font-size:20px;
+    color:black;
+}
+
