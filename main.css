@@ -3,43 +3,7 @@
     padding:0;
     }
 
-    .navBar {
-        
-        background-color:#202020;
-        text-align: center;
-        padding: 15px 5 15px 0;
-        text-shadow: 1px 1px #D8E3E5;
-        margin:0 auto;
-        line-height:60px;
-        height:90px;
-        cursor:pointer;
-        border-top:solid 7px #A21515;
-        border-bottom:solid 7px #A21515;
-        
-        }
-        .navBar a{
-        text-decoration:none;
-        color:white;
-        padding:30px;
-        font-size: 28px;
-        font-family:Berlin Sans FB;
-        transition:0.4s;
-        padding: 20px;
-        }
-        .navBar > li {
-        display: inline-block;
-        padding-right: 0 25px 0 25px;
-        }
-        .navBar > li > a {
-        color: white;
-        padding:18px;
-        }
-        .navBar > li > a:hover {
-        color: #A21515;
-        text-decoration:underline;
-        text-shadow: -1px 0 #A21515, 0 1px #A21515, 1px 0 #A21515, 0 -1px#A21515;
-        }
-        
+    
     .row-right {
         width:100%;
         float:right;
@@ -94,4 +58,6 @@
 .respImg {
     width: 80%;
     height: auto;
+    border: 3px solid gray;
+    border-radius: 16px;
 }
