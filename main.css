@@ -64,3 +64,10 @@
     border: 3px solid gray;
     border-radius: 16px;
 }
+
+.hrefLab{
+    text-align:center;
+    font-family:Berlin Sans FB;
+    font-size:24px;
+    color:#FFDF00;
+}
