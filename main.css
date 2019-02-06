@@ -71,3 +71,12 @@
     font-size:24px;
     color:#FFDF00;
 }
+
+#hidden{
+    text-align:center;
+    font-family:Arial,serif;
+    font-size:20px;
+    color:white;
+    text-decoration:none;
+
+}
