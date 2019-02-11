@@ -19,7 +19,7 @@
     .fixed-bottom{
         float:bottom;
         background-color:#202020;
-        min-height:50px;
+        min-height:20px;
         border-top:solid 7px #A21515;
         font-family:'Berlin Sans FB';
         font-size:25px;
