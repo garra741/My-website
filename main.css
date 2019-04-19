@@ -5,7 +5,7 @@
 
     body{
         background-color:#232323;
-        min-height:1000px;
+      
     }
 
     .row-right {
@@ -86,4 +86,8 @@
     color:#232323;
     text-decoration:none;
 
+}
+
+.nav-col{
+    background-color:#1C1C1C;
 }
