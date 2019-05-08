@@ -100,7 +100,9 @@
     width: 230px;
     padding: 5px;
     filter: grayscale(100%);
-    transition: 1s;
+    transition: 0.5s;
+    border: 1px solid gray;
+    border-radius: 12px;
 }
 
 .gallery img:hover{
