@@ -65,6 +65,15 @@
     color:white;
 }
 
+.p2Style{
+    text-align:center;
+    font-weight: bold;
+    color: #A21515;
+    font-size: 500px;
+    font-family:Berlin Sans FB;
+    text-shadow: -5px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    }
+
 .respImg {
     width: 80%;
     height:auto;
